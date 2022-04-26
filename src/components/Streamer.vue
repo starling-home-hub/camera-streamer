@@ -122,7 +122,7 @@
   }
 
   .main > div {
-    position: absolute;
+    position: relative;
     background: #46a9dd;
     padding: 1rem;
     display: grid;
